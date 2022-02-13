@@ -19,11 +19,11 @@ Comment: Integer 2’s complement addition.
 Overflow is neither detected nor handled.
 ```
 
-![Abstraction of 16-bit Adder Chip - Representation and Truth Table](<../.gitbook/assets/img (3).png>)
+![While this diagram is not a 16-bit binary incrementer, the implementation is similar to this.](https://media.geeksforgeeks.org/wp-content/uploads/20210429115210/updatedIncre.jpeg)
 
 ### Implementation of 16-bit Incrementer Chip in HDL
 
-The function in the above abstraction can help in the implementation of 16-bit Incrementer  Chip.
+The function in the above abstraction can help in the implementation of 16-bit Incrementer Chip.
 
 {% hint style="info" %}
 You can use the Add16 Chip you've built earlier.
@@ -58,3 +58,7 @@ class Inc16_Gate extends Add16_Gate {
     }
 }
 ```
+
+{% hint style="info" %}
+The Most Significant Bit is dropped.
+{% endhint %}

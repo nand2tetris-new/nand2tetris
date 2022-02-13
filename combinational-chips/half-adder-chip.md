@@ -12,7 +12,7 @@ The chip used to add two n-bit numbers is known as Adder, also known as n-bit Ad
 
 ### Half Adder Chip
 
-Half Adder chip is used to add two 2-bit numbers.
+Half Adder chip is used to add 2-bits.
 
 ```nand2tetris-hdl
 Chip name: HalfAdder

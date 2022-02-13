@@ -84,3 +84,7 @@ class Add16_Gate extends FullAdder_Gate {
     }
 }
 ```
+
+{% hint style="info" %}
+The Most Significant Bit is dropped.
+{% endhint %}

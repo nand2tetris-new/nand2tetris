@@ -24,6 +24,11 @@
 * [Full Adder Chip](combinational-chips/full-adder-chip.md)
 * [Add16 Chip](combinational-chips/add16-chip.md)
 * [Inc16 Chip](combinational-chips/inc16-chip.md)
+* [Half Subtractor Chip](combinational-chips/half-subtractor-chip.md)
+* [Full Subtractor Chip](combinational-chips/full-subtractor-chip.md)
+* [Subtract16 Chip](combinational-chips/subtract16-chip.md)
+* [Dec16 Chip](combinational-chips/dec16-chip.md)
+* [ALU](combinational-chips/alu.md)
 
 ## Misc
 

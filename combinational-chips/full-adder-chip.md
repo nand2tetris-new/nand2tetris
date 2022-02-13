@@ -8,7 +8,7 @@ description: >-
 
 ### Full Adder Chip
 
-Full Adder chip is used to add two 2-bit numbers.
+Full Adder chip is used to add 3-bits.
 
 ```nand2tetris-hdl
 Chip name: FullAdder
