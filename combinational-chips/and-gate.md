@@ -21,13 +21,12 @@ And Gate can be implemented in two ways:
 
 ![Implementation of And Gate from Nand Gates](https://www.learningaboutelectronics.com/images/AND-gate-from-NAND-gates.png)
 
-```nand2tetris-hdl
+```vhdl
 CHIP And {
     IN a, b;
     OUT out;
 
     PARTS:
-    // Put your code here:
     Nand(a=a, b=b, c=notout);
     Not(in=notout, out=out);
 }

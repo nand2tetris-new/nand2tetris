@@ -39,7 +39,7 @@ class Nand_Gate {
 }
 ```
 
-One of the best practices in Java™ is to use the most restrictive that makes sense for a particular member.
+One of the best practices in Java™ is to use the most restrictive access level that makes sense for a particular member.
 
 In the above code, initially, the integral values are converted to boolean types using Int2Bool method from Convert class of Misc package. Then, the output of Or(not a, not b) \[best way to represent] is returned. In case you're wondering,
 
