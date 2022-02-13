@@ -19,7 +19,7 @@ Comment: Integer 2's complement addition.
 Overflow is neither detected nor handled
 ```
 
-![Abstraction of 16-bit Adder Chip - Representation and Truth Table](<../.gitbook/assets/img (3).png>)
+![Abstraction of 16-bit Adder Chip - Representation and Truth Table](<../.gitbook/assets/img (3) (1).png>)
 
 ### Implementation of 16-bit Adder Chip in HDL
 
