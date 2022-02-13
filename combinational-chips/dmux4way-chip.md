@@ -24,7 +24,7 @@ Function: If sel=00 then {a=in, b=c=d=0}
                 else if sel=11 then {d=in, a=b=c=0}.
 ```
 
-![Abstraction of 4-way Demultiplexor Chip - Representation and Truth Table](../.gitbook/assets/img.png)
+![Abstraction of 4-way Demultiplexor Chip - Representation and Truth Table](<../.gitbook/assets/img (1).png>)
 
 ### Implementation of DMux4Way Chip in HDL
 

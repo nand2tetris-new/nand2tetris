@@ -21,6 +21,9 @@
 * [DMux4Way Chip](combinational-chips/dmux4way-chip.md)
 * [DMux8Way Chip](combinational-chips/dmux8way-chip.md)
 * [Half Adder Chip](combinational-chips/half-adder-chip.md)
+* [Full Adder Chip](combinational-chips/full-adder-chip.md)
+* [Add16 Chip](combinational-chips/add16-chip.md)
+* [Inc16 Chip](combinational-chips/inc16-chip.md)
 
 ## Misc
 

@@ -6,11 +6,11 @@ description: >-
 
 # Half Adder Chip
 
-### Adder
+### Adder Chip
 
 The chip used to add two n-bit numbers is known as Adder, also known as n-bit Adder.
 
-### Half Adder
+### Half Adder Chip
 
 Half Adder chip is used to add two 2-bit numbers.
 
@@ -22,11 +22,11 @@ Function: sum = LSB of a + b
                 carry = MSB of a + b
 ```
 
-![Abstraction of Half Adder Chip - Representation and Truth Table](<../.gitbook/assets/img (1).png>)
+![Abstraction of Half Adder Chip - Representation and Truth Table](<../.gitbook/assets/img (1) (1).png>)
 
 ### Implementation of Half Adder Chip in HDL
 
-The function in the above abstraction can help in the implementation of DMux8Way Chip.
+The function in the above abstraction can help in the implementation of Half Adder Chip.
 
 {% hint style="info" %}
 sum = a XOR b
