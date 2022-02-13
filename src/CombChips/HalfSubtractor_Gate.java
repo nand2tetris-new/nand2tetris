@@ -9,7 +9,7 @@ class HalfSubtractor_Gate extends Xor_Gate {
         out[0] = Xor(a, b);
 
         // borrow
-        out[1] = And_Gate.And(a, Not(b));
+        out[1] = And_Gate.And(Not(a), b);
 
         return out;
     }
