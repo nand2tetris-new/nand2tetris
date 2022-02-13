@@ -14,6 +14,13 @@
 * [Not16 Chip](combinational-chips/not16-chip.md)
 * [And16 Chip](combinational-chips/and16-chip.md)
 * [Or16 Chip](combinational-chips/or16-chip.md)
+* [Mux16 Chip](combinational-chips/mux16-chip.md)
+* [Or8Way Chip](combinational-chips/or8way-chip.md)
+* [Mux4Way16 Chip](combinational-chips/mux4way16-chip.md)
+* [Mux8Way16 Chip](combinational-chips/mux8way16-chip.md)
+* [DMux4Way Chip](combinational-chips/dmux4way-chip.md)
+* [DMux8Way Chip](combinational-chips/dmux8way-chip.md)
+* [Half Adder Chip](combinational-chips/half-adder-chip.md)
 
 ## Misc
 
