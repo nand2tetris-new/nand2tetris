@@ -25,4 +25,4 @@ description: >-
     }
 ```
 
-Unlike most programming languages, Java treats boolean and integer data types unusually. However, some of the implemented gates needs values in the form of binary values (0 or 1). Therefore, a method Int2Bool is created to convert integer values (0 and 1) to boolean (true and false) for comparisons.
+Unlike most programming languages, Java treats boolean and integer data types unusually. However, some of the implemented gates takes values in the form of binary integral values (0 or 1). Therefore, a method Int2Bool is created to convert binary integrall values (0 and 1) to boolean (true and false) for faster comparisons.

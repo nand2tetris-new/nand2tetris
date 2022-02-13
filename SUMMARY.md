@@ -33,3 +33,5 @@
 ## Misc
 
 * [Int2Bool](misc/int2bool.md)
+* [Bool2Int](misc/bool2int.md)
+* [Arrayto16](misc/arrayto16.md)
