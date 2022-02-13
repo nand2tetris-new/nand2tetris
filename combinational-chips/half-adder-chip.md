@@ -19,7 +19,7 @@ Chip name: HalfAdder
 Inputs: a, b
 Outputs: sum, carry
 Function: sum = LSB of a + b
-                carry = MSB of a + b
+          carry = MSB of a + b
 ```
 
 ![Abstraction of Half Adder Chip - Representation and Truth Table](<../.gitbook/assets/img (1) (1).png>)

@@ -15,7 +15,7 @@ Chip name: FullAdder
 Inputs: a, b, c
 Outputs: sum, carry
 Function: sum = LSB of a + b + c
-carry = MSB of a + b + c
+          carry = MSB of a + b + c
 ```
 
 ![Abstraction of Full Adder Chip - Representation and Truth Table](../.gitbook/assets/img.png)

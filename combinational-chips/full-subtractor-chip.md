@@ -15,7 +15,7 @@ Chip name: FullSubtractor
 Inputs: a, b, c
 Outputs: diff, borrow
 Function: diff = LSB of a - b - c
-                borrow = MSB of a - b - c
+          borrow = MSB of a - b - c
 ```
 
 ![Abstraction of Full Subtractor Chip - Representation, Implementation and Truth Table](http://1.bp.blogspot.com/-SUJYo2O1jnw/U41tbmBrd1I/AAAAAAAAAUI/htiQFMZFrrA/s1600/fs.JPG)

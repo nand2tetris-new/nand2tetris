@@ -19,7 +19,7 @@ Chip name: HalfSubtractor
 Inputs: a, b
 Outputs: diff, borrow
 Function: diff = LSB of a - b
-                borrow = MSB of a - b
+          borrow = MSB of a - b
 ```
 
 ![Abstraction of Half Subtractor Chip - Representation, Implementation and Truth Table](https://api-reader.tinkercad.com/api/images/bIqJR61LA2l/t725.jpg)
