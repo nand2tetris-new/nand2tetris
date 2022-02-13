@@ -29,7 +29,7 @@ Comment: The assignment operations mentioned above are all
 out[i]=a[i]".
 ```
 
-![Abstraction of 4-way 16-bit Multiplexor Chip - Representation and Truth Table](<../.gitbook/assets/img (4).png>)
+![Abstraction of 4-way 16-bit Multiplexor Chip - Representation and Truth Table](<../.gitbook/assets/img (4) (1).png>)
 
 ### Implementation of Mux4Way16 Chip in HDL
 

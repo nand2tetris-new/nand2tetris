@@ -28,6 +28,7 @@
 * [Full Subtractor Chip](combinational-chips/full-subtractor-chip.md)
 * [Subtract16 Chip](combinational-chips/subtract16-chip.md)
 * [Dec16 Chip](combinational-chips/dec16-chip.md)
+* [Arithmetic Chip](combinational-chips/arithmetic-chip.md)
 * [ALU](combinational-chips/alu.md)
 
 ## Misc
